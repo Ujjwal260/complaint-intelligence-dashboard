@@ -130,8 +130,8 @@ To address this, I developed a **Complaint Intelligence Platform** that:
 ![Dashboard](images/Product_&_Issue_Analysis.png)
 
 
-### 🔹 Channel customer Analysis
-![Dashboard](images/channel_customer_analysis.png)
+### 🔹 Channel & customer Analysis
+![Dashboard](images/Channel_&_customer_analysis.png)
 
 
 ### 🔹 Company performance Analysis
