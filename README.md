@@ -107,6 +107,22 @@ To address this, I developed a **Complaint Intelligence Platform** that:
 ### 🔹 Executive Dashboard
 ![Dashboard](images/Executive_dashboard.png)
 
+
+### 🔹 Executive Overview
+![Dashboard](images/Executive_overview.png)
+
+
+### 🔹 Product & Issue Analysis
+![Dashboard](images/Product_&_Issue_Analysis.png)
+
+
+### 🔹 Channel customer Analysis
+![Dashboard](images/channel_customer_analysis.png)
+
+
+### 🔹 Company performance Analysis
+![Dashboard](images/company_performance_analysis.png)
+
 ---
 
 ## 📂 Dataset
