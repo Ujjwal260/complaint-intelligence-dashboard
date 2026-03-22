@@ -1,5 +1,5 @@
 # 🚀 Complaint Intelligence Dashboard
-End-to-end Complaint Intelligence Platform using Python, SQL, and Power BI
+End-to-end Business Intelligence project transforming customer complaint data into actionable insights using Python, SQL, and Power BI.
 
 ---
 
@@ -113,15 +113,6 @@ To address this, I developed a **Complaint Intelligence Platform** that:
 
 - Created an **Executive Dashboard** for high-level decision-making
 - Designed drill-down visuals for deeper analysis
----
-
-## 📊 Key Insights
-
-- Credit reporting and debt collection generate the highest complaints  
-- Incorrect information is the most common issue  
-- Complaint volume peaked around 2023  
-- Web is the dominant complaint submission channel  
-- Some companies show delayed response patterns  
 
 ---
 
@@ -145,6 +136,18 @@ To address this, I developed a **Complaint Intelligence Platform** that:
 
 ### 🔹 Company performance Analysis
 ![Dashboard](images/company_performance_analysis.png)
+
+---
+
+## 🔍 Key Insights
+
+- 📊 Complaint volume peaked in 2023 and declined afterwards  
+- ⚠️ Credit reporting and debt collection are major complaint drivers  
+- 🏢 A few companies contribute disproportionately to total complaints  
+- 🌐 Majority of complaints are submitted via web channels  
+- ⏱️ Timely response rates are high (~99%), but some channels lag  
+
+These insights help prioritise operational improvements and risk management.
 
 ---
 
@@ -180,7 +183,7 @@ complaint-intelligence-dashboard/
 │   ├── schema.sql
 │   └── views.sql
 ├── dashboards/
-│   └── dashboard.pbix
+│   └── Executive_dashboard.pbix
 ├── images/
 │   ├── dashboard_overview.png
 │   ├── product_issue_analysis.png
@@ -191,24 +194,31 @@ complaint-intelligence-dashboard/
 ```
 ---
 
-## 🚀 Business Value
+## 📈 Business Impact
 
-This project enables organisations to:
+This project enables businesses to:
 
-- Identify root causes of complaints  
-- Monitor operational performance  
-- Improve customer satisfaction  
-- Make data-driven business decisions  
+- Identify high-risk products driving customer complaints  
+- Detect recurring complaint themes using NLP  
+- Monitor company performance and response efficiency  
+- Improve customer satisfaction by targeting key issues  
+- Optimise support channels based on customer behaviour  
+
+💡 Example Insight:
+Debt collection and credit reporting issues contribute the highest complaints, indicating a need for improved transparency and dispute handling.
 
 ---
 
-## 🧠 Key Skills Demonstrated
+## 🧠 Skills Demonstrated
 
-- Data Cleaning & Preprocessing  
-- NLP & Text Analytics  
-- SQL Data Modelling  
-- Data Visualization & Storytelling  
-- Business Problem Solving  
+- Data Analysis  
+- SQL (Joins, Aggregations, Views)  
+- Python (Pandas, NLP)  
+- Topic Modelling  
+- Data Visualisation (Power BI)  
+- Business Intelligence  
+- Problem Solving  
+- Stakeholder Reporting
 
 ---
 
@@ -217,6 +227,12 @@ This project enables organisations to:
 - Real-time data pipeline integration  
 - Automated reporting dashboards  
 - Deployment to cloud platforms  
+
+---
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-green)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 
 ---
 
