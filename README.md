@@ -105,7 +105,7 @@ To address this, I developed a **Complaint Intelligence Platform** that:
 ## 📸 Dashboard Preview
 
 ### 🔹 Executive Dashboard
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](images/Executive_dashboard.png)
 
 ---
 
