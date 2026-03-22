@@ -1,6 +1,17 @@
 # 🚀 Complaint Intelligence Dashboard
 End-to-end Complaint Intelligence Platform using Python, SQL, and Power BI
 
+---
+
+## 🚀 Quick Summary
+
+This dashboard answers a critical business question:  
+**What are the main drivers of customer complaints, and where should companies focus to improve customer satisfaction and operational performance?**
+
+It provides a high-level view of complaint trends, identifies root causes using NLP, and highlights product, company, and channel-level risks.
+
+---
+
 ## 📊 Project Overview
 
 Customer complaints are a critical source of insight for financial institutions, but analysing large volumes of unstructured complaint data is challenging.
@@ -12,6 +23,23 @@ The solution enables organisations to:
 - Monitor trends over time
 - Evaluate company performance
 - Improve customer experience and operational efficiency
+
+---
+
+## 🔄 How to Reproduce
+
+1. Download the full dataset from the official CFPB website  
+2. Run the Python notebooks for data cleaning and NLP analysis  
+3. Execute SQL scripts to create tables and analytical views  
+4. Open the Power BI dashboard file to explore insights  
+
+---
+
+## 📌 Requirements
+
+- Python (Pandas, NLP libraries)
+- MySQL
+- Power BI Desktop
 
 ---
 
@@ -53,43 +81,38 @@ To address this, I developed a **Complaint Intelligence Platform** that:
 ## ⚙️ Methodology
 
 ### 🔹 1. Data Processing (Python)
-- Handled large datasets using efficient data processing techniques
+- Processed large-scale complaint data using efficient data handling techniques
 - Cleaned and standardised fields (dates, categories, text)
-- Removed inconsistencies and missing values
+- Removed missing values and inconsistencies
 
 ---
 
 ### 🔹 2. NLP Analysis
-- Processed complaint narratives (text data)
-- Applied text cleaning (stopwords removal, normalization)
-- Extracted key themes using **topic modelling**
-- Converted unstructured data into structured insights
+- Preprocessed complaint narratives (tokenization, stopword removal, normalization)
+- Applied **topic modelling** to identify common complaint themes
+- Transformed unstructured text into structured insights for analysis
 
 ---
 
 ### 🔹 3. SQL Data Modelling
-- Created structured tables and optimized schemas
-- Built analytical views for:
-  - Complaint trends
-  - Product performance
-  - Company performance
-  - Channel analysis
+- Designed structured schemas for efficient querying
+- Built SQL analytical views for:
+  - Monthly complaint KPIs  
+  - Product and issue summaries  
+  - Company performance metrics  
+  - Channel analysis  
 
 ---
 
 ### 🔹 4. Power BI Dashboard
-- Designed a **multi-page interactive dashboard**:
-  - Executive Overview
-  - Product & Issue Analysis
-  - Company Performance Analysis
-  - Channel & Customer Analysis
+- Developed a multi-page interactive dashboard:
+  - Executive Overview  
+  - Product & Issue Analysis  
+  - Company Performance  
+  - Channel & Customer Analysis  
 
-- Built a final **Executive Dashboard** summarizing:
-  - Trends  
-  - Root causes  
-  - Risk areas  
-  - Performance metrics  
-
+- Created an **Executive Dashboard** for high-level decision-making
+- Designed drill-down visuals for deeper analysis
 ---
 
 ## 📊 Key Insights
