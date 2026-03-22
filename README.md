@@ -115,40 +115,38 @@ Due to the large size of the dataset (~8GB), the full dataset is not included in
 
 ### 📌 Sample Dataset
 A cleaned sample dataset is provided:
-data/processed/complaints_sample.csv
+data/complaints_sample.csv
 
 ---
 
-### 📥 Full Dataset (Official Source)
+### Full Dataset (Official Source)
+You can download the full dataset from the official CFPB Consumer Complaint Database here:
 
-You can download the full dataset from the official source:
-
-👉 :contentReference[oaicite:0]{index=0}  
-👉 https://www.consumerfinance.gov/data-research/consumer-complaints/
+[CFPB Consumer Complaint Database](https://www.consumerfinance.gov/data-research/consumer-complaints/)
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
+
+```text
 complaint-intelligence-dashboard/
 │
 ├── data/
-│ └── processed/
-│ └── complaints_sample.csv
-│
+│   └── processed/
+│       └── complaints_sample.csv
 ├── notebooks/
-│ ├── data_cleaning.ipynb
-│ ├── nlp_analysis.ipynb
-│
+│   ├── data_cleaning.ipynb
+│   └── nlp_analysis.ipynb
 ├── sql/
-│ ├── schema.sql
-│ ├── views.sql
-│
-├── powerbi/
-│ └── dashboard.pbix
-│
+│   ├── schema.sql
+│   └── views.sql
+├── dashboards/
+│   └── dashboard.pbix
 ├── images/
-│ ├── dashboard_overview.png
-│
+│   ├── dashboard_overview.png
+│   ├── product_issue_analysis.png
+│   ├── company_performance_analysis.png
+│   └── channel_customer_analysis.png
 ├── README.md
 └── requirements.txt
 
