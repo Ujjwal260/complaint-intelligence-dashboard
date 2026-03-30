@@ -239,9 +239,9 @@ Debt collection and credit reporting issues contribute the highest complaints, i
 ## 👨‍💻 Author
 
 **Ujjwal Rastogi**  
-MSc Business Analytics — University of Greenwich (Merit, 2026)
-London, UK
-LinkedIn: linkedin.com/in/ujjwal-rastogi-3932a6150
-Email: ujjwal.rastogi260@gmail.com  
+MSc Business Analytics — University of Greenwich (Merit, 2026)< br / >
+London, UK< br / >
+LinkedIn: linkedin.com/in/ujjwal-rastogi-3932a6150< br / >
+Email: ujjwal.rastogi260@gmail.com  < br / >
 
 ---
