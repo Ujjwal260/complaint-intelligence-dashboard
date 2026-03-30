@@ -1,5 +1,6 @@
 # 🚀 Complaint Intelligence Dashboard
-End-to-end Business Intelligence project transforming customer complaint data into actionable insights using Python, SQL, and Power BI.
+End-to-end Business Intelligence project transforming customer complaint data into actionable insights using Python, SQL, and Power BI.\
+"Key finding: Debt collection & credit reporting = 40%+ of total complaint volume"
 
 ---
 
