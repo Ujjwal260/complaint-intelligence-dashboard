@@ -27,15 +27,6 @@ The solution enables organisations to:
 
 ---
 
-## 🔄 How to Reproduce
-
-1. Download the full dataset from the official CFPB website  
-2. Run the Python notebooks for data cleaning and NLP analysis  
-3. Execute SQL scripts to create tables and analytical views  
-4. Open the Power BI dashboard file to explore insights  
-
----
-
 ## 📌 Requirements
 
 - Python (Pandas, NLP libraries)
@@ -228,6 +219,15 @@ Debt collection and credit reporting issues contribute the highest complaints, i
 - Real-time data pipeline integration  
 - Automated reporting dashboards  
 - Deployment to cloud platforms  
+
+---
+
+## 🔄 How to Reproduce
+
+1. Download the full dataset from the official CFPB website  
+2. Run the Python notebooks for data cleaning and NLP analysis  
+3. Execute SQL scripts to create tables and analytical views  
+4. Open the Power BI dashboard file to explore insights
 
 ---
 
