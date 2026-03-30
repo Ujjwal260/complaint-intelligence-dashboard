@@ -242,6 +242,6 @@ Debt collection and credit reporting issues contribute the highest complaints, i
 MSc Business Analytics — University of Greenwich (Merit, 2026)\
 London, UK\
 LinkedIn: linkedin.com/in/ujjwal-rastogi-3932a6150\
-Email: ujjwal.rastogi260@gmail.com\
+Email: ujjwal.rastogi260@gmail.com
 
 ---
